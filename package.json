@@ -1,0 +1,26 @@
+{
+  "name": "kerem-parlak",
+  "version": "1.0.0",
+  "description": "This is a trial project.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "kerem": "echo 'My name is Kerem'",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Kerem Parlak",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^7.0.0",
+    "simple-is": "^0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keremparlak0/npm-deneme.git"
+  }
+  
+}
